@@ -1,10 +1,6 @@
 # Ebook_ChatGPT_MidJourney
 Criando um Ebook com ChatGPT &amp; MidJourney
 
-💻 Tecnologias utilizadas no projeto
-ChatGPT
-MidJourney
-PowerPoint
 🧠 Prompts
 ChatGPT：
 
@@ -15,7 +11,6 @@ Midjourney：
 
 Ação	prompt
 título	A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1
-
 
 PROMPTS :
 Faça um texto para ebook, com foco em linguagem Lua com exemplos em código , para usar em programação no Roblox, nível iniciante. 
